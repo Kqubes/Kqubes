@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...gaming,coding,binge watching
 - 🌱 I’m currently learning ...C language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...karthikkrishna2511@gmail.com
+- 📫 How to reach me ... my mail ID karthikkrishna2511@gmail.com
 
 <!---
 Kqubes/Kqubes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
